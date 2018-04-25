@@ -1,0 +1,5293 @@
+[
+    {
+        "number": "260011",
+        "name": "MD TSSK",
+        "description": "MD TSSK",
+        "owner": {
+            "employeeId": "50558",
+            "name": "Ftoreková,Berta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260012",
+        "name": "CFO",
+        "description": "CFO",
+        "owner": {
+            "employeeId": "476799",
+            "name": "Medveďová,Magdaléna"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260013",
+        "name": "Strategy",
+        "description": "Local Strategic Development",
+        "owner": {
+            "employeeId": "254310",
+            "name": "Kolárová,Vanda"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260021",
+        "name": "MD Office",
+        "description": "MD Office",
+        "owner": {
+            "employeeId": "50558",
+            "name": "Ftoreková,Berta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260023",
+        "name": "BOM",
+        "description": "Business Operation Mgmt.",
+        "owner": {
+            "employeeId": "50558",
+            "name": "Ftoreková,Berta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260031",
+        "name": "Finance",
+        "description": "Finance",
+        "owner": {
+            "employeeId": "219434",
+            "name": "Líšková,Denisa"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260032",
+        "name": "IPC",
+        "description": "International Production Controlling",
+        "owner": {
+            "employeeId": "183031",
+            "name": "Haldová,Magdaléna"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260033",
+        "name": "Controlling",
+        "description": "Controlling",
+        "owner": {
+            "employeeId": "335155",
+            "name": "Cibula,Cyril"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260034",
+        "name": "FICO General",
+        "description": "FICO General",
+        "owner": {
+            "employeeId": "335155",
+            "name": "Cibula,Cyril"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260035",
+        "name": "Assets Inventory",
+        "description": "Assets Inventory",
+        "owner": {
+            "employeeId": "476799",
+            "name": "Medveďová,Magdaléna"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260036",
+        "name": "Controlling Internat",
+        "description": "Controlling International",
+        "owner": {
+            "employeeId": "535034",
+            "name": "Danko,Václav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260037",
+        "name": "FC BSC Reporting",
+        "description": "FC BSC Reporting",
+        "owner": {
+            "employeeId": "425998",
+            "name": "Hanzalová,Dominika"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260038",
+        "name": "FC BSC TSI",
+        "description": "FC BSC TSI",
+        "owner": {
+            "employeeId": "425998",
+            "name": "Hanzalová,Dominika"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260039",
+        "name": "FC BSC Mgmt",
+        "description": "FC BSC Mgmt",
+        "owner": {
+            "employeeId": "476799",
+            "name": "Medveďová,Magdaléna"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260040",
+        "name": "HR_MGT",
+        "description": "HR Management",
+        "owner": {
+            "employeeId": "256518",
+            "name": "Slota,Bohdan"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260041",
+        "name": "HR other",
+        "description": "HR other",
+        "owner": {
+            "employeeId": "253921",
+            "name": "Lupták,Ambróz"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260042",
+        "name": "TSSK Trainings other",
+        "description": "TSSK Trainings_Others",
+        "owner": {
+            "employeeId": "219593",
+            "name": "Pauková,Amália"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260043",
+        "name": "HR Services Other",
+        "description": "HR Services Other",
+        "owner": {
+            "employeeId": "253921",
+            "name": "Lupták,Ambróz"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260044",
+        "name": "Hard & Soft skill tr",
+        "description": "TSSK Hard & Soft skill trainings",
+        "owner": {
+            "employeeId": "219593",
+            "name": "Pauková,Amália"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260045",
+        "name": "Internal Trainings",
+        "description": "TSSK Internal Trainings",
+        "owner": {
+            "employeeId": "219593",
+            "name": "Pauková,Amália"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260046",
+        "name": "IIS staff",
+        "description": "IIS staff",
+        "owner": {
+            "employeeId": "256518",
+            "name": "Slota,Bohdan"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260047",
+        "name": "HR_Development_Pers.",
+        "description": "HR Development Pers.",
+        "owner": {
+            "employeeId": "219593",
+            "name": "Pauková,Amália"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260048",
+        "name": "HR_BP",
+        "description": "HR Business Partner",
+        "owner": {
+            "employeeId": "197060",
+            "name": "Jendeková,Bibiána"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260049",
+        "name": "HR_SSC_Pers.",
+        "description": "HR Shared Services Centre Pers.",
+        "owner": {
+            "employeeId": "253921",
+            "name": "Lupták,Ambróz"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260051",
+        "name": "Communication_Pers.",
+        "description": "Communication Pers.",
+        "owner": {
+            "employeeId": "320104",
+            "name": "Nitra,Izidor"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260052",
+        "name": "Marketing/PR Comm.",
+        "description": "Marketing/PR Communication_Activities",
+        "owner": {
+            "employeeId": "320104",
+            "name": "Nitra,Izidor"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260060",
+        "name": "Supply Chain Mgmt",
+        "description": "Supply Chain Mgmt",
+        "owner": {
+            "employeeId": "378609",
+            "name": "Záborská,Michaela"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260061",
+        "name": "Procurement",
+        "description": "Procurement",
+        "owner": {
+            "employeeId": "378609",
+            "name": "Záborská,Michaela"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260062",
+        "name": "COMM ORDER M. & DEAL",
+        "description": "Commercial Order Managem. & Deal Support",
+        "owner": {
+            "employeeId": "335155",
+            "name": "Cibula,Cyril"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260071",
+        "name": "Facility Management",
+        "description": "Facility Management",
+        "owner": {
+            "employeeId": "213526",
+            "name": "Vesel,Fedor"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260072",
+        "name": "Facility Man.general",
+        "description": "Facility Management general",
+        "owner": {
+            "employeeId": "213526",
+            "name": "Vesel,Fedor"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260073",
+        "name": "Security equipment",
+        "description": "Security equipment",
+        "owner": {
+            "employeeId": "319859",
+            "name": "Kaliský,Svetozár"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260074",
+        "name": "CBC",
+        "description": "CBC",
+        "owner": {
+            "employeeId": "213526",
+            "name": "Vesel,Fedor"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260075",
+        "name": "CBC II.",
+        "description": "CBC II.",
+        "owner": {
+            "employeeId": "213526",
+            "name": "Vesel,Fedor"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260081",
+        "name": "PM Mgmt",
+        "description": "Project Management Mgmt",
+        "owner": {
+            "employeeId": "436108",
+            "name": "Baranková,Antónia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260082",
+        "name": "SPM 01",
+        "description": "SPM 01",
+        "owner": {
+            "employeeId": "338622",
+            "name": "Lipták,Vendelín"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260083",
+        "name": "SPM 02",
+        "description": "SPM 02",
+        "owner": {
+            "employeeId": "444785",
+            "name": "Dudeková,Andrea"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260084",
+        "name": "PM Community",
+        "description": "PM Community",
+        "owner": {
+            "employeeId": "213539",
+            "name": "Šmajdová,Miloslava"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260091",
+        "name": "IIT Asset WH",
+        "description": "IIT Asset Warehouse",
+        "owner": {
+            "employeeId": "199158",
+            "name": "Thomková,Patrícia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260092",
+        "name": "IIT Asset WH",
+        "description": "IIT Asset Warehouse reuse",
+        "owner": {
+            "employeeId": "199158",
+            "name": "Thomková,Patrícia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260093",
+        "name": "R&D Project",
+        "description": "R&D Project",
+        "owner": {
+            "employeeId": "254310",
+            "name": "Kolárová,Vanda"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260094",
+        "name": "Org.Development",
+        "description": "Org.Development",
+        "owner": {
+            "employeeId": "254310",
+            "name": "Kolárová,Vanda"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260095",
+        "name": "Oth.Education & Uni.",
+        "description": "Oth.Education & Uni.",
+        "owner": {
+            "employeeId": "254310",
+            "name": "Kolárová,Vanda"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260096",
+        "name": "OpenStack project",
+        "description": "OpenStack project",
+        "owner": {
+            "employeeId": "254310",
+            "name": "Kolárová,Vanda"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260100",
+        "name": "Plan",
+        "description": "Plan",
+        "owner": {
+            "employeeId": "260466",
+            "name": "Karulová,Žaneta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260101",
+        "name": "Charging & Invoicing",
+        "description": "FC BSC Charging & Invoicing",
+        "owner": {
+            "employeeId": "425998",
+            "name": "Hanzalová,Dominika"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260102",
+        "name": "FC BSC C Con Mgt Int",
+        "description": "FC BSC Customer Contract Mgmnt Internat.",
+        "owner": {
+            "employeeId": "450887",
+            "name": "Kafendová,Beáta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260103",
+        "name": "ARM",
+        "description": "FC BSC Account Receivables Management",
+        "owner": {
+            "employeeId": "425998",
+            "name": "Hanzalová,Dominika"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260104",
+        "name": "FC BSC Fin Tran&Gove",
+        "description": "FC BSC Fin Transform projects & Governan",
+        "owner": {
+            "employeeId": "330821",
+            "name": "Plchová,Klaudia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260105",
+        "name": "FC BSC Order mgt&cha",
+        "description": "FC BSC Order management & Fin. charging",
+        "owner": {
+            "employeeId": "425998",
+            "name": "Hanzalová,Dominika"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260106",
+        "name": "FC BSC 2",
+        "description": "FC BSC 2",
+        "owner": {
+            "employeeId": "480795",
+            "name": "Pupák,Rastislav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260107",
+        "name": "FC BSC DTSE",
+        "description": "FC BSC DTSE",
+        "owner": {
+            "employeeId": "425998",
+            "name": "Hanzalová,Dominika"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260108",
+        "name": "FC BSC Mobile mgmt",
+        "description": "FC BSC Mobilephone management",
+        "owner": {
+            "employeeId": "425998",
+            "name": "Hanzalová,Dominika"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260109",
+        "name": "FC BSC MDM",
+        "description": "FC BSC Master data management",
+        "owner": {
+            "employeeId": "425998",
+            "name": "Hanzalová,Dominika"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260110",
+        "name": "FC BSC Cost Con Pool",
+        "description": "FC BSC Cost Controlling Pool",
+        "owner": {
+            "employeeId": "425998",
+            "name": "Hanzalová,Dominika"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260111",
+        "name": "FC BSC Cost Co Tower",
+        "description": "FC BSC Cost Controlling Tower",
+        "owner": {
+            "employeeId": "441113",
+            "name": "Krúpa,Daniel"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260112",
+        "name": "FC BSC BS",
+        "description": "FC BSC BS",
+        "owner": {
+            "employeeId": "425998",
+            "name": "Hanzalová,Dominika"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260113",
+        "name": "FC BSC Tool operat.",
+        "description": "FC BSC Tool operations",
+        "owner": {
+            "employeeId": "330821",
+            "name": "Plchová,Klaudia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260114",
+        "name": "FC BSC Reporting 1",
+        "description": "FC BSC Reporting 1",
+        "owner": {
+            "employeeId": "425998",
+            "name": "Hanzalová,Dominika"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260115",
+        "name": "FC BSC Reporting 2",
+        "description": "FC BSC Reporting 2",
+        "owner": {
+            "employeeId": "425998",
+            "name": "Hanzalová,Dominika"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260117",
+        "name": "Production controlli",
+        "description": "Production controlling",
+        "owner": {
+            "employeeId": "480795",
+            "name": "Pupák,Rastislav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260118",
+        "name": "FC BSC Internship",
+        "description": "FC BSC Internship",
+        "owner": {
+            "employeeId": "425998",
+            "name": "Hanzalová,Dominika"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260119",
+        "name": "FC BSC OneERP",
+        "description": "FC BSC OneERP",
+        "owner": {
+            "employeeId": "425998",
+            "name": "Hanzalová,Dominika"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260120",
+        "name": "FC BSC 1",
+        "description": "FC BSC 1",
+        "owner": {
+            "employeeId": "441113",
+            "name": "Krúpa,Daniel"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260121",
+        "name": "FC BSC 3",
+        "description": "FC BSC 3",
+        "owner": {
+            "employeeId": "330821",
+            "name": "Plchová,Klaudia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260122",
+        "name": "FC BSC 4",
+        "description": "FC BSC 4",
+        "owner": {
+            "employeeId": "535034",
+            "name": "Danko,Václav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260123",
+        "name": "FC BSC C Con Mgt Nat",
+        "description": "FC BSC Customer Contract Mgnmt National",
+        "owner": {
+            "employeeId": "333612",
+            "name": "Mečiar,Maximilián"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260140",
+        "name": "HR_BP_Others",
+        "description": "HR Business Partners Others",
+        "owner": {
+            "employeeId": "256518",
+            "name": "Slota,Bohdan"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260141",
+        "name": "TSSK HR_Services",
+        "description": "TSSK HR_Services",
+        "owner": {
+            "employeeId": "253921",
+            "name": "Lupták,Ambróz"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260142",
+        "name": "TSSK HR_BP",
+        "description": "TSSK HR_BP",
+        "owner": {
+            "employeeId": "256518",
+            "name": "Slota,Bohdan"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260143",
+        "name": "HR_CC_Others",
+        "description": "HR Competence Center Others",
+        "owner": {
+            "employeeId": "219593",
+            "name": "Pauková,Amália"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260144",
+        "name": "Education Center",
+        "description": "Education Center",
+        "owner": {
+            "employeeId": "308474",
+            "name": "Kollár,Demeter"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260145",
+        "name": "Other Education",
+        "description": "Other Education",
+        "owner": {
+            "employeeId": "219593",
+            "name": "Pauková,Amália"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260146",
+        "name": "Edu Center, IIS&ReM",
+        "description": "Education Center, IIS&ReM dpt.",
+        "owner": {
+            "employeeId": "256518",
+            "name": "Slota,Bohdan"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260147",
+        "name": "IIS & ReM",
+        "description": "IIS & ReM",
+        "owner": {
+            "employeeId": "256518",
+            "name": "Slota,Bohdan"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "260171",
+        "name": "Facility Management",
+        "description": "Facility Management CSS",
+        "owner": {
+            "employeeId": "213526",
+            "name": "Vesel,Fedor"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262001",
+        "name": "ITO Management",
+        "description": "ITO Management",
+        "owner": {
+            "employeeId": "181011",
+            "name": "Holuby,Vendelín"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262002",
+        "name": "ASIC 1",
+        "description": "ASIC 1",
+        "owner": {
+            "employeeId": "470686",
+            "name": "Obšut,Imrich"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262004",
+        "name": "ECG - Citrix",
+        "description": "ECG - Citrix",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262005",
+        "name": "ECG - Oracle",
+        "description": "ECG - Oracle",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262006",
+        "name": "ECG - MS_SQL",
+        "description": "ECG - MS_SQL",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262007",
+        "name": "ECG - Sun_Solaris",
+        "description": "ECG - Sun_Solaris",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262008",
+        "name": "ECG - Linux",
+        "description": "ECG - Linux",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262009",
+        "name": "ECG - AIX",
+        "description": "ECG - AIX",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262010",
+        "name": "ECG - Windows&VMware",
+        "description": "ECG - Windows&VMware",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262011",
+        "name": "MD CSS",
+        "description": "MD CSS",
+        "owner": {
+            "employeeId": "50558",
+            "name": "Ftoreková,Berta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262012",
+        "name": "ECG - Middleware",
+        "description": "ECG - Middleware",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262015",
+        "name": "ECG - SAP_MaxDB",
+        "description": "ECG - SAP_MaxDB",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262016",
+        "name": "ECG - Backup",
+        "description": "ECG - Backup",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262017",
+        "name": "ECG - Storage",
+        "description": "ECG - Storage",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262018",
+        "name": "ECG - DCS",
+        "description": "ECG - DCS",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262019",
+        "name": "ECG - LAN",
+        "description": "ECG - LAN",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262020",
+        "name": "ECG - Network_Securi",
+        "description": "ECG - Network_Security",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262021",
+        "name": "ECG - Loadbalancing",
+        "description": "ECG - Loadbalancing",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262022",
+        "name": "ECG - WSA & Routing",
+        "description": "ECG - WSA & Routing",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262023",
+        "name": "ECG - SAP BASIS",
+        "description": "ECG - SAP BASIS",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262024",
+        "name": "ECG - SAP JAVA/PORTA",
+        "description": "ECG - SAP JAVA/PORTAL",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262025",
+        "name": "ECG - SAP HANA",
+        "description": "ECG - SAP HANA",
+        "owner": {
+            "employeeId": "336765",
+            "name": "Krúpa,Andrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262026",
+        "name": "ASIC 2",
+        "description": "ASIC 2",
+        "owner": {
+            "employeeId": "221811",
+            "name": "Švehla,Zoltán"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262027",
+        "name": "ASIC Management",
+        "description": "ASIC Management",
+        "owner": {
+            "employeeId": "221811",
+            "name": "Švehla,Zoltán"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262110",
+        "name": "GDU DPS Mgmt",
+        "description": "GDU DPS Mgmt",
+        "owner": {
+            "employeeId": "222822",
+            "name": "Pešková,Albína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262111",
+        "name": "Windows Delivery 1",
+        "description": "Windows Delivery 1",
+        "owner": {
+            "employeeId": "540983",
+            "name": "Kolesárová,Monika"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262113",
+        "name": "Unix Delivery 1",
+        "description": "Unix Delivery 1",
+        "owner": {
+            "employeeId": "231770",
+            "name": "Gocník,Medard"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262114",
+        "name": "ENSM SK02",
+        "description": "Engineering & Systems Mgmt SK02",
+        "owner": {
+            "employeeId": "333426",
+            "name": "Maslová,Soňa"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262115",
+        "name": "Unix Delivery 3",
+        "description": "Unix Delivery 3",
+        "owner": {
+            "employeeId": "527241",
+            "name": "Vydarená,Vlasta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262116",
+        "name": "Solaris",
+        "description": "Solaris",
+        "owner": {
+            "employeeId": "212763",
+            "name": "Mečiarová,Paulína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262117",
+        "name": "CCO",
+        "description": "CCO",
+        "owner": {
+            "employeeId": "222822",
+            "name": "Pešková,Albína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262120",
+        "name": "DPS SD Mgmt",
+        "description": "DPS Solution Delivery Mgmt",
+        "owner": {
+            "employeeId": "311578",
+            "name": "Bieliková,Milica"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262121",
+        "name": "Cross Function 1",
+        "description": "Cross Function 1",
+        "owner": {
+            "employeeId": "501648",
+            "name": "Poliak,Augustín"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262122",
+        "name": "Unix 2",
+        "description": "Unix 2",
+        "owner": {
+            "employeeId": "332656",
+            "name": "Janečeková,Anastázia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262123",
+        "name": "SBO_BR1",
+        "description": "SBO_BR1",
+        "owner": {
+            "employeeId": "259135",
+            "name": "Baran,Imrich"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262124",
+        "name": "Windows Delivery 5",
+        "description": "Windows Delivery 5",
+        "owner": {
+            "employeeId": "212763",
+            "name": "Mečiarová,Paulína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262125",
+        "name": "Windows Delivery 2",
+        "description": "Windows Delivery 2",
+        "owner": {
+            "employeeId": "231773",
+            "name": "Ihnačáková,Gizela"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262126",
+        "name": "Windows Delivery 3",
+        "description": "Windows Delivery 3",
+        "owner": {
+            "employeeId": "324042",
+            "name": "Habšuda,Levoslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262127",
+        "name": "SBO_BR2",
+        "description": "SBO_BR2",
+        "owner": {
+            "employeeId": "206131",
+            "name": "Valentová,Amália"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262128",
+        "name": "SBO_SAN",
+        "description": "SBO_SAN",
+        "owner": {
+            "employeeId": "308430",
+            "name": "Ondruš,Kornel"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262129",
+        "name": "Infrastr.solution-02",
+        "description": "Infrastructure solutions - 02",
+        "owner": {
+            "employeeId": "525757",
+            "name": "Mojžiš,Konštantín"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262130",
+        "name": "WIN2",
+        "description": "WIN2",
+        "owner": {
+            "employeeId": "525757",
+            "name": "Mojžiš,Konštantín"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262131",
+        "name": "Unix Delivery 2",
+        "description": "Unix Delivery 2",
+        "owner": {
+            "employeeId": "332656",
+            "name": "Janečeková,Anastázia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262132",
+        "name": "Infrastr.solution-01",
+        "description": "Infrastructure solutions - 01",
+        "owner": {
+            "employeeId": "324042",
+            "name": "Habšuda,Levoslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262133",
+        "name": "SBO_UK1",
+        "description": "SBO_UK1",
+        "owner": {
+            "employeeId": "330716",
+            "name": "Holuby,Miloš"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262134",
+        "name": "SBO_NAS",
+        "description": "SBO_NAS",
+        "owner": {
+            "employeeId": "225038",
+            "name": "Obšut,Radomír"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262136",
+        "name": "WSA&LB",
+        "description": "WSA& Loadbalancer Operations",
+        "owner": {
+            "employeeId": "490935",
+            "name": "Krajíčeková,Galina"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262137",
+        "name": "DCN UK",
+        "description": "DCN UK Operations",
+        "owner": {
+            "employeeId": "486372",
+            "name": "Šimonovičová,Stanislava"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262138",
+        "name": "SBO mgmt.",
+        "description": "SBO management",
+        "owner": {
+            "employeeId": "255388",
+            "name": "Zúbriková,Laura"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262141",
+        "name": "SC OPM",
+        "description": "SC OPM",
+        "owner": {
+            "employeeId": "499547",
+            "name": "Dekýšová,Alena"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262143",
+        "name": "ENSM SK03",
+        "description": "Engineering & Systems Mgmt SK03",
+        "owner": {
+            "employeeId": "255913",
+            "name": "Vicen,Zlatko"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262144",
+        "name": "ENSM SK04",
+        "description": "Engineering & Systems Mgmt SK04",
+        "owner": {
+            "employeeId": "333410",
+            "name": "Jurkovičová,Dušana"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262145",
+        "name": "VSO 1",
+        "description": "Virtual Systems Operations 1",
+        "owner": {
+            "employeeId": "210941",
+            "name": "Švehlová,Aurélia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262146",
+        "name": "GBO DPS",
+        "description": "GBO DPS",
+        "owner": {
+            "employeeId": "440468",
+            "name": "Moravčík,Valér"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262149",
+        "name": "Citrix 1",
+        "description": "Citrix 1",
+        "owner": {
+            "employeeId": "259189",
+            "name": "Slotová,Martina"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262150",
+        "name": "ENSM SK01",
+        "description": "Engineering & Systems Mgmt SK01",
+        "owner": {
+            "employeeId": "471312",
+            "name": "Filip,Cyril"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262151",
+        "name": "Oper.Mgmt Center",
+        "description": "Operations Management Center",
+        "owner": {
+            "employeeId": "280922",
+            "name": "Vanek,Kamil"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262152",
+        "name": "Prod.planning team",
+        "description": "Production planning team",
+        "owner": {
+            "employeeId": "338354",
+            "name": "Dula,Radoslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262153",
+        "name": "Cust. Delivery 1 Ovh",
+        "description": "Customer Delivery 1 Overhead",
+        "owner": {
+            "employeeId": "220638",
+            "name": "Chudíková,Zoja"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262154",
+        "name": "GBO International",
+        "description": "GBO International",
+        "owner": {
+            "employeeId": "257272",
+            "name": "Tatarka,Vlastimil"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262155",
+        "name": "StartUp Center Overh",
+        "description": "StartUp Center Overhead",
+        "owner": {
+            "employeeId": "280922",
+            "name": "Vanek,Kamil"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262158",
+        "name": "UNIX 2",
+        "description": "UNIX 2",
+        "owner": {
+            "employeeId": "513001",
+            "name": "Hrušovský,Bohumír"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262159",
+        "name": "Cross Function 2",
+        "description": "Cross Function 2",
+        "owner": {
+            "employeeId": "292885",
+            "name": "Valent,Móric"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262160",
+        "name": "ENSM SK05",
+        "description": "Engineering & Systems Mgmt SK05",
+        "owner": {
+            "employeeId": "536956",
+            "name": "Mihál,Ľudomil"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262162",
+        "name": "SD_IT Farm",
+        "description": "SD_IT Farm",
+        "owner": {
+            "employeeId": "217245",
+            "name": "Kostrec,Patrik"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262163",
+        "name": "PP 2",
+        "description": "Production Planning 2",
+        "owner": {
+            "employeeId": "338354",
+            "name": "Dula,Radoslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262165",
+        "name": "ITO QAP Mgmt",
+        "description": "ITO Quality, Automation and Project Mgmt",
+        "owner": {
+            "employeeId": "274168",
+            "name": "Zimka,Vendelín"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262166",
+        "name": "ITO Quality",
+        "description": "ITO Quality",
+        "owner": {
+            "employeeId": "377245",
+            "name": "Lukáč,Miloslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262167",
+        "name": "Unix & DB Tech Overh",
+        "description": "Unix & DB Tech Overhead",
+        "owner": {
+            "employeeId": "316921",
+            "name": "Senko,Ervín"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262168",
+        "name": "ITO Automation",
+        "description": "ITO Automation",
+        "owner": {
+            "employeeId": "214081",
+            "name": "Tatárka,Kazimír"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262170",
+        "name": "ITO Quality Support",
+        "description": "ITO Quality Support",
+        "owner": {
+            "employeeId": "378556",
+            "name": "Valušková,Svetlana"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262171",
+        "name": "EMEA CHM",
+        "description": "EMEA Change Management",
+        "owner": {
+            "employeeId": "443778",
+            "name": "Heretiková,Božena"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262172",
+        "name": "Change management",
+        "description": "Change management",
+        "owner": {
+            "employeeId": "338355",
+            "name": "Vajdová,Diana"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262174",
+        "name": "Process Function Ovh",
+        "description": "Process Functions Overhead",
+        "owner": {
+            "employeeId": "320373",
+            "name": "Pavúková,Zita"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262175",
+        "name": "Migration & Engineer",
+        "description": "Migration & Engineer",
+        "owner": {
+            "employeeId": "196744",
+            "name": "Kubíková,Zlatica"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262180",
+        "name": "MS Tech Mgmt",
+        "description": "MS Tech Mgmt",
+        "owner": {
+            "employeeId": "443778",
+            "name": "Heretiková,Božena"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262181",
+        "name": "GDU CCS Mgmt",
+        "description": "GDU CCS Mgmt",
+        "owner": {
+            "employeeId": "316921",
+            "name": "Senko,Ervín"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262211",
+        "name": "MPHS 1",
+        "description": "MPHS 1",
+        "owner": {
+            "employeeId": "202162",
+            "name": "Mikuš,Klement"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262212",
+        "name": "MPHS 2",
+        "description": "MPHS 2",
+        "owner": {
+            "employeeId": "214087",
+            "name": "Bahna,Vratko"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262213",
+        "name": "SAP LA 1",
+        "description": "SAP Large accounts 1",
+        "owner": {
+            "employeeId": "506811",
+            "name": "Miklošková,Milica"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262214",
+        "name": "EMEA2",
+        "description": "EMEA2",
+        "owner": {
+            "employeeId": "182363",
+            "name": "Janečeková,Dušana"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262215",
+        "name": "SAP LA 2",
+        "description": "SAP Large accounts 2",
+        "owner": {
+            "employeeId": "378605",
+            "name": "Dejová,Jozefína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262217",
+        "name": "GDU SAP TS Mgmt",
+        "description": "GDU SAP TS Mgmt",
+        "owner": {
+            "employeeId": "533435",
+            "name": "Kozová,Štefánia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262218",
+        "name": "SAP TS LA Mgmt",
+        "description": "SAP TS Large Accounts Mgmt",
+        "owner": {
+            "employeeId": "259189",
+            "name": "Slotová,Martina"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262219",
+        "name": "Shell OC Mgmt",
+        "description": "Shell OC Mgmt",
+        "owner": {
+            "employeeId": "192044",
+            "name": "Gocník,Dezider"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262221",
+        "name": "BPM 2",
+        "description": "Business Process Management 2",
+        "owner": {
+            "employeeId": "293684",
+            "name": "Juríková,Anežka"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262222",
+        "name": "C&D 01",
+        "description": "Catch and Dispatch 01",
+        "owner": {
+            "employeeId": "191387",
+            "name": "Štefanka,Rudolf"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262223",
+        "name": "PD Mgmt",
+        "description": "Project Delivery Mgmt",
+        "owner": {
+            "employeeId": "533435",
+            "name": "Kozová,Štefánia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262224",
+        "name": "SAP MSA Mgmt",
+        "description": "SAP MPHS & EMEA Mgmt",
+        "owner": {
+            "employeeId": "288426",
+            "name": "Chalupková,Iveta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262225",
+        "name": "Project delivery 1",
+        "description": "Project delivery 1",
+        "owner": {
+            "employeeId": "235770",
+            "name": "Dávidová,Perla"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262226",
+        "name": "Solution delivery",
+        "description": "Solution delivery",
+        "owner": {
+            "employeeId": "338414",
+            "name": "Cibulková,Vladimíra"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262227",
+        "name": "SAP LA Conti",
+        "description": "SAP Large Account Conti",
+        "owner": {
+            "employeeId": "376007",
+            "name": "Dudek,Benjamín"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262228",
+        "name": "EMEA 1",
+        "description": "EMEA 1",
+        "owner": {
+            "employeeId": "288400",
+            "name": "Zima,Cyprián"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262229",
+        "name": "SAP BO",
+        "description": "SAP Business Objects",
+        "owner": {
+            "employeeId": "523556",
+            "name": "Doležalová,Barbora"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262230",
+        "name": "Shell SAP OS",
+        "description": "Shell SAP Operation Support",
+        "owner": {
+            "employeeId": "509871",
+            "name": "Labuda,Anton"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262231",
+        "name": "BPM 1",
+        "description": "Business Process Management 1",
+        "owner": {
+            "employeeId": "204402",
+            "name": "Ihnačáková,Zlatica"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262232",
+        "name": "MPHS & EMEA O&DM",
+        "description": "MPHS&EMEA SAP Operations & Deal Mgmt",
+        "owner": {
+            "employeeId": "295026",
+            "name": "Kolníková,Ivica"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262233",
+        "name": "Project delivery 2",
+        "description": "Project delivery 2",
+        "owner": {
+            "employeeId": "241165",
+            "name": "Gašpar,Pravoslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262234",
+        "name": "SAP LA Telco",
+        "description": "SAP Large Account Telco",
+        "owner": {
+            "employeeId": "506811",
+            "name": "Miklošková,Milica"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262235",
+        "name": "COC 1",
+        "description": "COC 1",
+        "owner": {
+            "employeeId": "261092",
+            "name": "Ďuricová,Tamara"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262236",
+        "name": "GBO & OS",
+        "description": "GBO & OS",
+        "owner": {
+            "employeeId": "214671",
+            "name": "Gregor,Richard"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262238",
+        "name": "SAP Automation team",
+        "description": "GDU SAP Automation team",
+        "owner": {
+            "employeeId": "225660",
+            "name": "Kolník,Bartolomej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262301",
+        "name": "Quality EMEA",
+        "description": "Quality EMEA",
+        "owner": {
+            "employeeId": "445541",
+            "name": "Mikulíková,Renáta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262302",
+        "name": "GL INM, PRM & CHM",
+        "description": "Global Lead INM, PRM & CHM",
+        "owner": {
+            "employeeId": "330098",
+            "name": "Hrušovský,Ľuboslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262311",
+        "name": "Tel IT CSO Mgmt",
+        "description": "Tel IT CSO Mgmt",
+        "owner": {
+            "employeeId": "418779",
+            "name": "Haščák,Žigmund"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262312",
+        "name": "Tel IT CSO MC",
+        "description": "Tel IT CSO MC",
+        "owner": {
+            "employeeId": "215675",
+            "name": "Antalová,Emília"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262313",
+        "name": "Tel IT COS 1",
+        "description": "Tel IT COS 1",
+        "owner": {
+            "employeeId": "259734",
+            "name": "Rus,Ignác"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262314",
+        "name": "Tel IT CSO OP 1",
+        "description": "Tel IT CSO OP 1",
+        "owner": {
+            "employeeId": "544226",
+            "name": "Ftorek,René"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262315",
+        "name": "Tel IT TSO ETAU AM",
+        "description": "Tel IT TSO ETAU AM",
+        "owner": {
+            "employeeId": "328242",
+            "name": "Štefanková,Liana"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262316",
+        "name": "Tel IT CSO OP 2",
+        "description": "Tel IT CSO OP 2",
+        "owner": {
+            "employeeId": "338382",
+            "name": "Rybníček,Bonifác"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262317",
+        "name": "Tel IT Mgmt",
+        "description": "Tel IT Management",
+        "owner": {
+            "employeeId": "226570",
+            "name": "Lepšíková,Rozália"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262318",
+        "name": "Tel IT GSO SAP 02",
+        "description": "Tel IT GSO SAP 02",
+        "owner": {
+            "employeeId": "428828",
+            "name": "Kollár,Ondrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262319",
+        "name": "Tel IT TSI Mgmt",
+        "description": "Tel IT TSI Mgmt",
+        "owner": {
+            "employeeId": "217247",
+            "name": "Tatár,Matej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262320",
+        "name": "Tel IT SeM 03",
+        "description": "Tel IT SeM 03",
+        "owner": {
+            "employeeId": "423333",
+            "name": "Králiková,Milica"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262321",
+        "name": "Tel IT MCS AO2 & AM",
+        "description": "Tel IT MCS AO2 & AM",
+        "owner": {
+            "employeeId": "227714",
+            "name": "Debnár,Slavomír"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262322",
+        "name": "Tel IT MCS AO 01",
+        "description": "Tel IT MCS AO 01",
+        "owner": {
+            "employeeId": "472708",
+            "name": "Štefanka,Viktor"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262323",
+        "name": "Lead Incident Mgmt.",
+        "description": "Lead Incident Mgmt.",
+        "owner": {
+            "employeeId": "505387",
+            "name": "Gocníková,Brigita"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262324",
+        "name": "Tel IT SeM 02",
+        "description": "Tel IT SeM 02",
+        "owner": {
+            "employeeId": "322131",
+            "name": "Kállay,Miloš"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262325",
+        "name": "Tel IT SDM",
+        "description": "Tel IT SDM",
+        "owner": {
+            "employeeId": "243434",
+            "name": "Gašparovičová,Henrieta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262326",
+        "name": "MCS AO5 & TEST Manag",
+        "description": "MCS AO5 & TEST Management",
+        "owner": {
+            "employeeId": "197057",
+            "name": "Haluška,Severín"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262327",
+        "name": "GSO OneERP",
+        "description": "GSO OneERP",
+        "owner": {
+            "employeeId": "428828",
+            "name": "Kollár,Ondrej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262328",
+        "name": "Tel IT MCS AO4&Leits",
+        "description": "Tel IT MCS AO4 & Leitstand",
+        "owner": {
+            "employeeId": "380371",
+            "name": "Marián,Václav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262329",
+        "name": "Tel IT TSO AM 1",
+        "description": "Tel IT TSO AM 1",
+        "owner": {
+            "employeeId": "225042",
+            "name": "Kováčik,Valér"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262330",
+        "name": "TEL IT Project Manag",
+        "description": "TEL IT Project Management",
+        "owner": {
+            "employeeId": "426001",
+            "name": "Jurkovič,Norbert"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262331",
+        "name": "Telco_IT Farm1",
+        "description": "Telco_IT Farm1",
+        "owner": {
+            "employeeId": "225042",
+            "name": "Kováčik,Valér"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262332",
+        "name": "TEL IT COS 3",
+        "description": "TEL IT COS 3",
+        "owner": {
+            "employeeId": "199158",
+            "name": "Thomková,Patrícia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262333",
+        "name": "SSC OM BO CH&I",
+        "description": "SSC OM BO CH&I",
+        "owner": {
+            "employeeId": "441113",
+            "name": "Krúpa,Daniel"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262334",
+        "name": "DEV Academy",
+        "description": "DEV Academy",
+        "owner": {
+            "employeeId": "475472",
+            "name": "Šulc,Radomír"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262335",
+        "name": "Tel IT TSO AD",
+        "description": "Tel IT TSO Application Development",
+        "owner": {
+            "employeeId": "475472",
+            "name": "Šulc,Radomír"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262336",
+        "name": "Tel IT ETAU OS",
+        "description": "Tel IT ETAU Operation Services",
+        "owner": {
+            "employeeId": "516071",
+            "name": "Finka,Filip"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262337",
+        "name": "Tel IT TSO AM 2",
+        "description": "Tel IT TSO AM 2",
+        "owner": {
+            "employeeId": "292756",
+            "name": "Pupáková,Emília"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262338",
+        "name": "Tel IT TSO AM 3",
+        "description": "Tel IT TSO AM 3",
+        "owner": {
+            "employeeId": "292756",
+            "name": "Pupáková,Emília"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262339",
+        "name": "Tel IT TSO Mgmt",
+        "description": "Tel IT TSO Mgmt",
+        "owner": {
+            "employeeId": "202164",
+            "name": "Šoltýs,Ján"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262340",
+        "name": "TEL IT Business Oper",
+        "description": "TEL IT Business Operations",
+        "owner": {
+            "employeeId": "234432",
+            "name": "Čaplovičová,Anna"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262341",
+        "name": "Change Management",
+        "description": "Change Management",
+        "owner": {
+            "employeeId": "274175",
+            "name": "Sýkorová,Elvíra"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262342",
+        "name": "Tel IT Leitstand CC",
+        "description": "Tel IT Leitstand Control Center",
+        "owner": {
+            "employeeId": "518345",
+            "name": "Pupák,Stanislav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262343",
+        "name": "Tel IT COS 2",
+        "description": "Tel IT COS 2",
+        "owner": {
+            "employeeId": "448970",
+            "name": "Korec,Bohdan"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262344",
+        "name": "Tel IT SIIMS",
+        "description": "Tel IT SIIMS",
+        "owner": {
+            "employeeId": "376046",
+            "name": "Kolárová,Ľudomila"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262345",
+        "name": "Tel IT SAP",
+        "description": "Tel IT SAP",
+        "owner": {
+            "employeeId": "542194",
+            "name": "Valentová,Silvia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262346",
+        "name": "Tel IT MU",
+        "description": "Tel IT MU",
+        "owner": {
+            "employeeId": "226570",
+            "name": "Lepšíková,Rozália"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262348",
+        "name": "Tel IT TSO AM4",
+        "description": "Tel IT TSO AM4",
+        "owner": {
+            "employeeId": "310609",
+            "name": "Rybáriková,Anastázia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262349",
+        "name": "Tel IT MCS Mgmt",
+        "description": "Tel IT MCS Mgmt",
+        "owner": {
+            "employeeId": "260466",
+            "name": "Karulová,Žaneta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262351",
+        "name": "Tel IT TSO PMO",
+        "description": "Tel IT TSO PMO",
+        "owner": {
+            "employeeId": "533208",
+            "name": "Slašťan,Radúz"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262352",
+        "name": "TEL IT Solution Desi",
+        "description": "TEL IT Solution Design",
+        "owner": {
+            "employeeId": "325551",
+            "name": "Babková,Božena"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262353",
+        "name": "Tel IT ETAU AO",
+        "description": "Tel IT ETAU AO",
+        "owner": {
+            "employeeId": "516071",
+            "name": "Finka,Filip"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262354",
+        "name": "Tel IT ETAU EAI",
+        "description": "Tel IT ETAU EAI",
+        "owner": {
+            "employeeId": "377277",
+            "name": "Valachovičová,Hilda"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262355",
+        "name": "Tel IT MCS PMO",
+        "description": "Tel IT MCS PMO",
+        "owner": {
+            "employeeId": "260466",
+            "name": "Karulová,Žaneta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262359",
+        "name": "Tel  IT TSI Op Mgt",
+        "description": "Tel  IT TSI Op Mgt",
+        "owner": {
+            "employeeId": "238438",
+            "name": "Bošková,Dagmara"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262369",
+        "name": "Tel IT TSI CC Mgt",
+        "description": "Tel IT TSI CC Mgt",
+        "owner": {
+            "employeeId": "217247",
+            "name": "Tatár,Matej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262379",
+        "name": "Tel IT TSI SM Mgt",
+        "description": "Tel IT TSI SM Mgt",
+        "owner": {
+            "employeeId": "254828",
+            "name": "Lipták,Zdenko"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262410",
+        "name": "DC Network Services",
+        "description": "DC Network Services",
+        "owner": {
+            "employeeId": "241159",
+            "name": "Bahno,Juraj"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262411",
+        "name": "DCNO Change Managem.",
+        "description": "DCNO Change Management",
+        "owner": {
+            "employeeId": "449855",
+            "name": "Bahna,Leonard"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262412",
+        "name": "Windows Delivery 4",
+        "description": "Windows Delivery 4",
+        "owner": {
+            "employeeId": "237048",
+            "name": "Labudová,Zoja"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262413",
+        "name": "CCO 01",
+        "description": "CCO 01",
+        "owner": {
+            "employeeId": "222822",
+            "name": "Pešková,Albína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262414",
+        "name": "Firewall Operation 1",
+        "description": "Firewall Operation 1",
+        "owner": {
+            "employeeId": "254319",
+            "name": "Poliak,Cyprián"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262416",
+        "name": "PSS Bus Op & Int Ser",
+        "description": "PSS Business Oper. & Integrat. Services",
+        "owner": {
+            "employeeId": "283897",
+            "name": "Jánošíková,Patrícia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262417",
+        "name": "NS",
+        "description": "Network Specifications",
+        "owner": {
+            "employeeId": "296865",
+            "name": "Uramová,Hana"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262419",
+        "name": "GI, PR & CHM",
+        "description": "Global Incident, Problem & Change Mgmt.",
+        "owner": {
+            "employeeId": "330098",
+            "name": "Hrušovský,Ľuboslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262420",
+        "name": "PSS Mgmt.",
+        "description": "PSS Mgmt.",
+        "owner": {
+            "employeeId": "446894",
+            "name": "Hrušovský,Denis"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262421",
+        "name": "CCO 02",
+        "description": "CCO 02",
+        "owner": {
+            "employeeId": "222822",
+            "name": "Pešková,Albína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262422",
+        "name": "CCO 04",
+        "description": "CCO 04",
+        "owner": {
+            "employeeId": "222822",
+            "name": "Pešková,Albína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262423",
+        "name": "SBO_AM",
+        "description": "SBO_AM",
+        "owner": {
+            "employeeId": "330716",
+            "name": "Holuby,Miloš"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262424",
+        "name": "DCNOPEN",
+        "description": "DCNO Engineering",
+        "owner": {
+            "employeeId": "215828",
+            "name": "Ďurišová,Brigita"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262425",
+        "name": "F2R IPC",
+        "description": "F2R IPC",
+        "owner": {
+            "employeeId": "193773",
+            "name": "Slotová,Margaréta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262426",
+        "name": "LAN DE 1",
+        "description": "DC LAN Germany 1",
+        "owner": {
+            "employeeId": "325652",
+            "name": "Mokrošová,Bohumila"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262427",
+        "name": "SOS 06",
+        "description": "Shared Operation Service 06",
+        "owner": {
+            "employeeId": "288397",
+            "name": "Tatarková,Elvíra"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262428",
+        "name": "Global Inc. Control",
+        "description": "Global Incident Control",
+        "owner": {
+            "employeeId": "444715",
+            "name": "Gašparovič,Adolf"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262429",
+        "name": "DC LAN RUN1",
+        "description": "DC LAN RUN1",
+        "owner": {
+            "employeeId": "309519",
+            "name": "Tomko,Zlatko"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262430",
+        "name": "Customer Compliance",
+        "description": "Customer Compliance",
+        "owner": {
+            "employeeId": "433929",
+            "name": "Čarnogurský,Bartolomej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262431",
+        "name": "Process Compliance",
+        "description": "Process Compliance",
+        "owner": {
+            "employeeId": "296906",
+            "name": "Luptáková,Hortenzia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262432",
+        "name": "BOD",
+        "description": "Business Operation Delivery",
+        "owner": {
+            "employeeId": "308297",
+            "name": "Petrušková,Barbora"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262433",
+        "name": "LAN DE 2",
+        "description": "DC LAN Germany 2",
+        "owner": {
+            "employeeId": "308428",
+            "name": "Habšuda,Marcel"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262434",
+        "name": "Firewall Operation 2",
+        "description": "Firewall Operation 2",
+        "owner": {
+            "employeeId": "280905",
+            "name": "Šurková,Jozefína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262435",
+        "name": "DCNO LIM & Netw Cons",
+        "description": "DCNO LIM & Network Consultation",
+        "owner": {
+            "employeeId": "492819",
+            "name": "Janíková,Erika"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262436",
+        "name": "SDD",
+        "description": "Software Development & Design",
+        "owner": {
+            "employeeId": "210095",
+            "name": "Pašeková,Milica"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262437",
+        "name": "Operation Management",
+        "description": "Operation Management",
+        "owner": {
+            "employeeId": "288397",
+            "name": "Tatarková,Elvíra"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262438",
+        "name": "CCO 03",
+        "description": "CCO 03",
+        "owner": {
+            "employeeId": "222822",
+            "name": "Pešková,Albína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262439",
+        "name": "IAN&DWDM",
+        "description": "IAN & DWDM Operations",
+        "owner": {
+            "employeeId": "288491",
+            "name": "Malachovská,Sidónia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262440",
+        "name": "Citrix 2",
+        "description": "Citrix 2",
+        "owner": {
+            "employeeId": "328245",
+            "name": "Chalupka,Alexej"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262441",
+        "name": "Prod. Engineering",
+        "description": "Production Engineering",
+        "owner": {
+            "employeeId": "333301",
+            "name": "Dávidová,Hana"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262442",
+        "name": "Boehr.Ing.Op.Center",
+        "description": "Boehringer Ingelheim Operation Center",
+        "owner": {
+            "employeeId": "491966",
+            "name": "Cibuľa,Boris"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262443",
+        "name": "Project Delivery",
+        "description": "Project Delivery",
+        "owner": {
+            "employeeId": "499408",
+            "name": "Škultéty,Dušan"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262444",
+        "name": "SI & PS",
+        "description": "Service Improvement & Project Support",
+        "owner": {
+            "employeeId": "199159",
+            "name": "Malíšek,Levoslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262445",
+        "name": "Proces.& Qual. Mgmt",
+        "description": "Processes & Quality Management",
+        "owner": {
+            "employeeId": "330098",
+            "name": "Hrušovský,Ľuboslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262446",
+        "name": "PSS Config",
+        "description": "Production Support Syst. Config",
+        "owner": {
+            "employeeId": "260449",
+            "name": "Lukáčová,Karolína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262447",
+        "name": "BOD&Q Local",
+        "description": "BOD&Q Local",
+        "owner": {
+            "employeeId": "308297",
+            "name": "Petrušková,Barbora"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262448",
+        "name": "GPM",
+        "description": "Global Process Management",
+        "owner": {
+            "employeeId": "284059",
+            "name": "Mojžiš,Ernest"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262450",
+        "name": "DC LAN Oper. Mgmt.",
+        "description": "DC LAN Oper. Mgmt.",
+        "owner": {
+            "employeeId": "235766",
+            "name": "Karulová,Sláva"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262453",
+        "name": "SBO_BRL",
+        "description": "SBO_BRL",
+        "owner": {
+            "employeeId": "308430",
+            "name": "Ondruš,Kornel"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262454",
+        "name": "SBO_MX",
+        "description": "SBO_MX",
+        "owner": {
+            "employeeId": "259135",
+            "name": "Baran,Imrich"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262456",
+        "name": "DCNO Network Farm",
+        "description": "DCNO Network Farm",
+        "owner": {
+            "employeeId": "449855",
+            "name": "Bahna,Leonard"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262460",
+        "name": "DCN POS Mgmt.",
+        "description": "DCN Production & Operation Services Mgmt",
+        "owner": {
+            "employeeId": "279302",
+            "name": "Malachovský,Jozef"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262470",
+        "name": "Data Center Netw Ope",
+        "description": "Data Center Network Operations",
+        "owner": {
+            "employeeId": "203388",
+            "name": "Maslová,Ružena"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262512",
+        "name": "Appl.Solut.Daimler 1",
+        "description": "Application Solutions Daimler 1",
+        "owner": {
+            "employeeId": "231119",
+            "name": "Fabian,Ferdinand"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262513",
+        "name": "Appl.Solut.Daimler 2",
+        "description": "Application Solutions Daimler 2",
+        "owner": {
+            "employeeId": "446550",
+            "name": "Valachová,Marína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262514",
+        "name": "OPM 2",
+        "description": "OPM 2",
+        "owner": {
+            "employeeId": "234453",
+            "name": "Mojžišová,Miriama"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262611",
+        "name": "Tel IT GSO Mgmt",
+        "description": "Tel IT GSO Mgmt",
+        "owner": {
+            "employeeId": "227730",
+            "name": "Hrušovská,Malvína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262612",
+        "name": "ACC",
+        "description": "Application control center",
+        "owner": {
+            "employeeId": "513423",
+            "name": "Holubyová,Alica"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262613",
+        "name": "Tel IT DBO",
+        "description": "Tel IT DBO",
+        "owner": {
+            "employeeId": "533181",
+            "name": "Višňovská,Nataša"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262614",
+        "name": "Tel IT MCS AO3 & AD",
+        "description": "Tel IT MCS AO3 & AD",
+        "owner": {
+            "employeeId": "307317",
+            "name": "Pelikánová,Zina"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262615",
+        "name": "Tel IT Platform mgmt",
+        "description": "Tel IT Platform management",
+        "owner": {
+            "employeeId": "376046",
+            "name": "Kolárová,Ľudomila"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262616",
+        "name": "Tel IT MWO",
+        "description": "Tel IT MWO",
+        "owner": {
+            "employeeId": "377277",
+            "name": "Valachovičová,Hilda"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262617",
+        "name": "Dedicat.Op.CenterOvh",
+        "description": "Dedicated Operations Center Overhead",
+        "owner": {
+            "employeeId": "312606",
+            "name": "Moravčík,Blahoslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262618",
+        "name": "Tel IT GSO SAP 03",
+        "description": "Tel IT GSO SAP 03",
+        "owner": {
+            "employeeId": "209821",
+            "name": "Doležalová,Alena"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262619",
+        "name": "Tel IT GSO SAP 04",
+        "description": "Tel IT GSO SAP 04",
+        "owner": {
+            "employeeId": "254311",
+            "name": "Cíger,Bonifác"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262620",
+        "name": "AL Mgmt",
+        "description": "Application Lifecycle Management",
+        "owner": {
+            "employeeId": "222385",
+            "name": "Gašparovič,Ľuboslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262621",
+        "name": "Colas Customer serv.",
+        "description": "Colas Customer services",
+        "owner": {
+            "employeeId": "315025",
+            "name": "Kubíková,Andrea"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262623",
+        "name": "GSO SAP 5",
+        "description": "GSO SAP 5",
+        "owner": {
+            "employeeId": "503698",
+            "name": "Nitra,Alan"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262624",
+        "name": "Tel IT GSO SAP 06",
+        "description": "Tel IT GSO SAP 06",
+        "owner": {
+            "employeeId": "541962",
+            "name": "Pupák,Kamil"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262625",
+        "name": "Tel IT GSO SAP 07",
+        "description": "Tel IT GSO SAP 07",
+        "owner": {
+            "employeeId": "203387",
+            "name": "Turčok,Vojtech"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262626",
+        "name": "Tel IT GSO SAP 08",
+        "description": "Tel IT GSO SAP 08",
+        "owner": {
+            "employeeId": "227730",
+            "name": "Hrušovská,Malvína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262657",
+        "name": "GCU AGA&GER Mgmt",
+        "description": "GCU AGA&GER Management",
+        "owner": {
+            "employeeId": "256521",
+            "name": "Valušková,Agnesa"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262658",
+        "name": "StartUp 2",
+        "description": "StartUp 2",
+        "owner": {
+            "employeeId": "196594",
+            "name": "Mydlo,Albín"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262659",
+        "name": "DB  & RSA Services",
+        "description": "DB  & RSA Services",
+        "owner": {
+            "employeeId": "338355",
+            "name": "Vajdová,Diana"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262667",
+        "name": "IPPS Mgmt",
+        "description": "IPPS Mgmt",
+        "owner": {
+            "employeeId": "222822",
+            "name": "Pešková,Albína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262668",
+        "name": "IPPS operation Mgmt",
+        "description": "IPPS operation Mgmt",
+        "owner": {
+            "employeeId": "222822",
+            "name": "Pešková,Albína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262669",
+        "name": "Windows",
+        "description": "Windows",
+        "owner": {
+            "employeeId": "212763",
+            "name": "Mečiarová,Paulína"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262670",
+        "name": "Linux",
+        "description": "Linux",
+        "owner": {
+            "employeeId": "231770",
+            "name": "Gocník,Medard"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262671",
+        "name": "Business Operation",
+        "description": "Business Operation",
+        "owner": {
+            "employeeId": "338354",
+            "name": "Dula,Radoslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262672",
+        "name": "Solaris",
+        "description": "Solaris",
+        "owner": {
+            "employeeId": "332656",
+            "name": "Janečeková,Anastázia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262712",
+        "name": "Swiss Microsoft serv",
+        "description": "Swiss Microsoft services",
+        "owner": {
+            "employeeId": "213541",
+            "name": "Jánošíková,Olympia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262713",
+        "name": "Middleware Delivery1",
+        "description": "Middleware Delivery 1",
+        "owner": {
+            "employeeId": "297268",
+            "name": "Masaryk,Dionýz"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262714",
+        "name": "OPM 1",
+        "description": "OPM 1",
+        "owner": {
+            "employeeId": "232936",
+            "name": "Habšuda,Bohuslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262715",
+        "name": "Tel IT GSO SAP 01",
+        "description": "Tel IT GSO SAP 01",
+        "owner": {
+            "employeeId": "220641",
+            "name": "Fabián,Dávid"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262716",
+        "name": "StartUp 1",
+        "description": "StartUp 1",
+        "owner": {
+            "employeeId": "489887",
+            "name": "Vydarený,Dionýz"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262717",
+        "name": "Oper.Mgmt Center Ovh",
+        "description": "Operations Management Center Overhead",
+        "owner": {
+            "employeeId": "280922",
+            "name": "Vanek,Kamil"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262718",
+        "name": "Cust. Delivery 2 Ovh",
+        "description": "Customer Delivery 2 Overhead",
+        "owner": {
+            "employeeId": "288546",
+            "name": "Šimonovič,Daniel"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262721",
+        "name": "Colas Oper.&Engineer",
+        "description": "Colas Operation & Engineering",
+        "owner": {
+            "employeeId": "236965",
+            "name": "Krúpa,Michal"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262722",
+        "name": "DB Delivery 1",
+        "description": "DB Delivery 1",
+        "owner": {
+            "employeeId": "222385",
+            "name": "Gašparovič,Ľuboslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262723",
+        "name": "SaaS Delivery",
+        "description": "SaaS Delivery",
+        "owner": {
+            "employeeId": "523446",
+            "name": "Habšuda,Jerguš"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262725",
+        "name": "Migration factory 2",
+        "description": "Migration factory 2",
+        "owner": {
+            "employeeId": "2594",
+            "name": "Ďuricová,Kornélia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262726",
+        "name": "SSE",
+        "description": "SSE",
+        "owner": {
+            "employeeId": "193773",
+            "name": "Slotová,Margaréta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262727",
+        "name": "DB Delivery 2",
+        "description": "DB Delivery 2",
+        "owner": {
+            "employeeId": "527241",
+            "name": "Vydarená,Vlasta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262728",
+        "name": "EMEA LIM & PRM",
+        "description": "EMEA LIM & PRM",
+        "owner": {
+            "employeeId": "257272",
+            "name": "Tatarka,Vlastimil"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262757",
+        "name": "GCU EMEA Overhead",
+        "description": "GCU EMEA Overhead",
+        "owner": {
+            "employeeId": "181011",
+            "name": "Holuby,Vendelín"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262802",
+        "name": "Duropack depr.",
+        "description": "Duropack depreciation",
+        "owner": {
+            "employeeId": "231773",
+            "name": "Ihnačáková,Gizela"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262820",
+        "name": "DSO Mgmt",
+        "description": "Dynamic Services Operations Mgmt",
+        "owner": {
+            "employeeId": "196579",
+            "name": "Dočolomanská,Viera"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262821",
+        "name": "VSO 2",
+        "description": "Virtual Systems Operations 2",
+        "owner": {
+            "employeeId": "210941",
+            "name": "Švehlová,Aurélia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262822",
+        "name": "Shell SAP 2",
+        "description": "Shell SAP 2",
+        "owner": {
+            "employeeId": "207589",
+            "name": "Šulc,Zoltán"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262823",
+        "name": "VSO 3",
+        "description": "Virtual Systems Operations 3",
+        "owner": {
+            "employeeId": "288534",
+            "name": "Mikloško,Bohuš"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262824",
+        "name": "COC 2",
+        "description": "COC 2",
+        "owner": {
+            "employeeId": "261092",
+            "name": "Ďuricová,Tamara"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262825",
+        "name": "LAN INT",
+        "description": "DC LAN International",
+        "owner": {
+            "employeeId": "486372",
+            "name": "Šimonovičová,Stanislava"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262827",
+        "name": "VPO 1",
+        "description": "Virtualized Platform Operations 1",
+        "owner": {
+            "employeeId": "288868",
+            "name": "Bartošová,Zora"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262828",
+        "name": "Shell SAP 1",
+        "description": "Shell SAP 1",
+        "owner": {
+            "employeeId": "192445",
+            "name": "Malachovská,Natália"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262829",
+        "name": "VPO 2",
+        "description": "Virtualized Platform Operations 2",
+        "owner": {
+            "employeeId": "475202",
+            "name": "Haščák,Vratko"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262830",
+        "name": "VPO 3",
+        "description": "Virtualized Platform Operations 3",
+        "owner": {
+            "employeeId": "296937",
+            "name": "Dzurjanin,Filip"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262831",
+        "name": "ICB",
+        "description": "Infrastructure Capacity & Build",
+        "owner": {
+            "employeeId": "423457",
+            "name": "Dekýš,Štefan"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262832",
+        "name": "VPO 4",
+        "description": "Virtualized Platform Operations 04",
+        "owner": {
+            "employeeId": "327334",
+            "name": "Hrmo,Ľudomil"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262833",
+        "name": "GCDT",
+        "description": "GCDT",
+        "owner": {
+            "employeeId": "274169",
+            "name": "Morová,Vanda"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262834",
+        "name": "OPEN",
+        "description": "OPEN",
+        "owner": {
+            "employeeId": "296937",
+            "name": "Dzurjanin,Filip"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262835",
+        "name": "VPO 05",
+        "description": "VPO 05",
+        "owner": {
+            "employeeId": "336167",
+            "name": "Kyseľová,Diana"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262837",
+        "name": "VPO vCloud",
+        "description": "VPO vCloud",
+        "owner": {
+            "employeeId": "288868",
+            "name": "Bartošová,Zora"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262840",
+        "name": "DSO Mgmt 2",
+        "description": "Dynamic Services Operations Mgmt 2",
+        "owner": {
+            "employeeId": "295075",
+            "name": "Pavúk,Aleš"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262843",
+        "name": "L2 core",
+        "description": "L2 core",
+        "owner": {
+            "employeeId": "326650",
+            "name": "Filipová,Karina"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262909",
+        "name": "IIT Operation",
+        "description": "Internal IT Operation",
+        "owner": {
+            "employeeId": "238438",
+            "name": "Bošková,Dagmara"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262910",
+        "name": "Global DCNO",
+        "description": "Global DCNO",
+        "owner": {
+            "employeeId": "50558",
+            "name": "Ftoreková,Berta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262912",
+        "name": "PQIT & LIO I",
+        "description": "PQIT & Local Information Office I",
+        "owner": {
+            "employeeId": "226570",
+            "name": "Lepšíková,Rozália"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262913",
+        "name": "Local Inf.Mgmt.",
+        "description": "Local Inf.Mgmt.",
+        "owner": {
+            "employeeId": "199158",
+            "name": "Thomková,Patrícia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262914",
+        "name": "Expatriates",
+        "description": "Expatriates",
+        "owner": {
+            "employeeId": "182113",
+            "name": "Mihálik,Bohumil"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262915",
+        "name": "Cross Charging",
+        "description": "Cross Charging",
+        "owner": {
+            "employeeId": "234432",
+            "name": "Čaplovičová,Anna"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262919",
+        "name": "Prod service Mgmt",
+        "description": "Production service Mgmt",
+        "owner": {
+            "employeeId": "50558",
+            "name": "Ftoreková,Berta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262923",
+        "name": "Security management",
+        "description": "Security management",
+        "owner": {
+            "employeeId": "319859",
+            "name": "Kaliský,Svetozár"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262924",
+        "name": "PQIT Mgmt.",
+        "description": "PQIT",
+        "owner": {
+            "employeeId": "234432",
+            "name": "Čaplovičová,Anna"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262926",
+        "name": "TSS RemExpCenter_ns",
+        "description": "TSS Remote Experience Center_nearshore",
+        "owner": {
+            "employeeId": "227728",
+            "name": "Zimková,Adriána"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262927",
+        "name": "Devel.&sys.integ.A2",
+        "description": "Devel.&sys.integ.A2",
+        "owner": {
+            "employeeId": "234432",
+            "name": "Čaplovičová,Anna"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262928",
+        "name": "Maintenance A3",
+        "description": "Maintenance A3",
+        "owner": {
+            "employeeId": "234432",
+            "name": "Čaplovičová,Anna"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262929",
+        "name": "Workpl.sys.&per. B1",
+        "description": "Workpl.sys.&per. B1",
+        "owner": {
+            "employeeId": "234432",
+            "name": "Čaplovičová,Anna"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262930",
+        "name": "Data&Print,Apps B2",
+        "description": "Data&Print,Apps B2",
+        "owner": {
+            "employeeId": "234432",
+            "name": "Čaplovičová,Anna"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262931",
+        "name": "Asset workstation B1",
+        "description": "Asset workstation B1",
+        "owner": {
+            "employeeId": "199158",
+            "name": "Thomková,Patrícia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262932",
+        "name": "Asset ntw&infrastrB1",
+        "description": "Asset network infrastructure B1",
+        "owner": {
+            "employeeId": "199158",
+            "name": "Thomková,Patrícia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262933",
+        "name": "Infrastruct.serv. B2",
+        "description": "Infrastructure services B2",
+        "owner": {
+            "employeeId": "199158",
+            "name": "Thomková,Patrícia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262934",
+        "name": "PQIT & LIO II",
+        "description": "PQIT & Local Information Office II",
+        "owner": {
+            "employeeId": "226570",
+            "name": "Lepšíková,Rozália"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "262999",
+        "name": "HQ CSS_Plan&Dummy",
+        "description": "HQ CSS_Plan&Dummy",
+        "owner": {
+            "employeeId": "50558",
+            "name": "Ftoreková,Berta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "263924",
+        "name": "BODQ Mgmt",
+        "description": "BODQ Mgmt",
+        "owner": {
+            "employeeId": "328528",
+            "name": "Vojtek,Miloš"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264010",
+        "name": "Shared Network Oper.",
+        "description": "Shared Network Operations",
+        "owner": {
+            "employeeId": "491963",
+            "name": "Šťastná,Lucia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264011",
+        "name": "Voice 1",
+        "description": "Voice 1",
+        "owner": {
+            "employeeId": "195946",
+            "name": "Petrušková,Antónia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264012",
+        "name": "Op. Enabling",
+        "description": "Operations Enabling",
+        "owner": {
+            "employeeId": "380477",
+            "name": "Nováková,Agnesa"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264013",
+        "name": "TC Academy",
+        "description": "TC Academy",
+        "owner": {
+            "employeeId": "380477",
+            "name": "Nováková,Agnesa"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264014",
+        "name": "TC Sec. Operations 1",
+        "description": "TC Security Operations 1",
+        "owner": {
+            "employeeId": "292770",
+            "name": "Lipták,Štefan"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264015",
+        "name": "Voice 2",
+        "description": "Voice 2",
+        "owner": {
+            "employeeId": "484862",
+            "name": "Lisická,Juliana"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264016",
+        "name": "Voice 3",
+        "description": "Voice 3",
+        "owner": {
+            "employeeId": "233346",
+            "name": "Thomková,Emília"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264017",
+        "name": "TC Delivery",
+        "description": "TC Delivery",
+        "owner": {
+            "employeeId": "199244",
+            "name": "Čierná,Ľudmila"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264018",
+        "name": "Op. Sec&Net Mgmt",
+        "description": "Operations Security & Network Mgmt",
+        "owner": {
+            "employeeId": "243431",
+            "name": "Daňo,Drahoslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264019",
+        "name": "Op. Voice&Tools Mgmt",
+        "description": "Operations Voice & Tools Mgmt",
+        "owner": {
+            "employeeId": "227728",
+            "name": "Zimková,Adriána"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264020",
+        "name": "RM Inh. & VAS",
+        "description": "Rollout Management Inhouse & VAS",
+        "owner": {
+            "employeeId": "328348",
+            "name": "Bukovský,Víťazoslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264021",
+        "name": "RoM Connectivity 2",
+        "description": "Rollout Management Connectivity 2",
+        "owner": {
+            "employeeId": "529831",
+            "name": "Hlinková,Agáta"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264022",
+        "name": "TSS Lab",
+        "description": "TSS Lab",
+        "owner": {
+            "employeeId": "227728",
+            "name": "Zimková,Adriána"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264023",
+        "name": "Shared Network Serv.",
+        "description": "Shared Network Services",
+        "owner": {
+            "employeeId": "230027",
+            "name": "Vicenová,Antónia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264024",
+        "name": "RM Inh. & VAS 2",
+        "description": "Rollout Management Inhouse & VAS 2",
+        "owner": {
+            "employeeId": "552227",
+            "name": "Tatarka,Tadeáš"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264100",
+        "name": "T-Sec",
+        "description": "Telekom Security",
+        "owner": {
+            "employeeId": "243431",
+            "name": "Daňo,Drahoslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264111",
+        "name": "BP Security",
+        "description": "BP Security",
+        "owner": {
+            "employeeId": "207010",
+            "name": "Hlinková,Lenka"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264112",
+        "name": "Op. Connect.",
+        "description": "Operations Connectivity",
+        "owner": {
+            "employeeId": "494204",
+            "name": "Kočiš,Vít"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264113",
+        "name": "e.ON Local",
+        "description": "e.ON Local",
+        "owner": {
+            "employeeId": "299344",
+            "name": "Obšutová,Otília"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264114",
+        "name": "E.ON Depreciation",
+        "description": "E.ON Depreciation",
+        "owner": {
+            "employeeId": "299344",
+            "name": "Obšutová,Otília"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264115",
+        "name": "E.ON TPA",
+        "description": "E.ON TPA",
+        "owner": {
+            "employeeId": "299344",
+            "name": "Obšutová,Otília"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264116",
+        "name": "CSO Voice",
+        "description": "CSO Voice",
+        "owner": {
+            "employeeId": "234453",
+            "name": "Mojžišová,Miriama"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264117",
+        "name": "Cust. Op. Public I.",
+        "description": "Customer Operations Public I.",
+        "owner": {
+            "employeeId": "468649",
+            "name": "Svrbíková,Etela"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264118",
+        "name": "TESTA - depreciation",
+        "description": "TESTA - depreciation",
+        "owner": {
+            "employeeId": "203388",
+            "name": "Maslová,Ružena"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264119",
+        "name": "SAB Miller - depr.",
+        "description": "SAB Miller - depr.",
+        "owner": {
+            "employeeId": "494204",
+            "name": "Kočiš,Vít"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264200",
+        "name": "TC PRESALES",
+        "description": "TC PRESALES",
+        "owner": {
+            "employeeId": "471354",
+            "name": "Mečiarová,Klaudia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264201",
+        "name": "Proj. Inhouse&VAS",
+        "description": "Projects Inhouse & VAS (PA)",
+        "owner": {
+            "employeeId": "204073",
+            "name": "Jonatová,Silvia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264202",
+        "name": "Cust. Op. Mgmt",
+        "description": "Customer Operation Management",
+        "owner": {
+            "employeeId": "471354",
+            "name": "Mečiarová,Klaudia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264203",
+        "name": "Proj. Inhouse&VAS 2",
+        "description": "Projects Inhouse & VAS 2",
+        "owner": {
+            "employeeId": "204073",
+            "name": "Jonatová,Silvia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264211",
+        "name": "Operations Inhouse",
+        "description": "Operations Inhouse",
+        "owner": {
+            "employeeId": "494204",
+            "name": "Kočiš,Vít"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264212",
+        "name": "Cust. Op. Public II.",
+        "description": "Customer Operations Public II.",
+        "owner": {
+            "employeeId": "468649",
+            "name": "Svrbíková,Etela"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264213",
+        "name": "TC Sec. Operations 2",
+        "description": "TC Security Operations 2",
+        "owner": {
+            "employeeId": "292770",
+            "name": "Lipták,Štefan"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264214",
+        "name": "TC PRESALES MGMNT",
+        "description": "TC PRESALES MANAGEMENT",
+        "owner": {
+            "employeeId": "506817",
+            "name": "Slobodníková,Želmíra"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264300",
+        "name": "Shared Network Prod.",
+        "description": "Shared Network Production",
+        "owner": {
+            "employeeId": "227728",
+            "name": "Zimková,Adriána"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264311",
+        "name": "FIPF",
+        "description": "FIPF",
+        "owner": {
+            "employeeId": "484862",
+            "name": "Lisická,Juliana"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264312",
+        "name": "Rollout Mgmt Conn. 1",
+        "description": "Rollout Management Connectivity 1",
+        "owner": {
+            "employeeId": "315734",
+            "name": "Bernolák,Miloš"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264313",
+        "name": "P&E Mgmt",
+        "description": "Projects & Engineering Mgmt",
+        "owner": {
+            "employeeId": "204073",
+            "name": "Jonatová,Silvia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264314",
+        "name": "Proj. Op. 1",
+        "description": "Projects Operations 1 (PO1)",
+        "owner": {
+            "employeeId": "493552",
+            "name": "Podkonická,Romana"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264315",
+        "name": "Proj. Op. 3",
+        "description": "Projects Operations 3",
+        "owner": {
+            "employeeId": "451050",
+            "name": "Hrmová,Anastázia"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264316",
+        "name": "SBU",
+        "description": "SBU",
+        "owner": {
+            "employeeId": "506817",
+            "name": "Slobodníková,Želmíra"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264317",
+        "name": "Projects Operat. UK",
+        "description": "Projects Operations UK",
+        "owner": {
+            "employeeId": "540716",
+            "name": "Slašťan,Mikuláš"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "264411",
+        "name": "TC SeM",
+        "description": "TC SeM",
+        "owner": {
+            "employeeId": "292778",
+            "name": "Brezina,Marcel"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "265010",
+        "name": "Service Mmgt EMEA",
+        "description": "Service Management EMEA",
+        "owner": {
+            "employeeId": "288540",
+            "name": "Slobodník,Aurel"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "265017",
+        "name": "SERVICE Mgmt.",
+        "description": "SERVICE Mgmt.",
+        "owner": {
+            "employeeId": "213539",
+            "name": "Šmajdová,Miloslava"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "265111",
+        "name": "Sales & Serv. Mgmt 3",
+        "description": "Sales & Service Management 03",
+        "owner": {
+            "employeeId": "212363",
+            "name": "Šimonovičová,Ema"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "265112",
+        "name": "Sales & Serv. Mgmt 1",
+        "description": "Sales & Service Management 01",
+        "owner": {
+            "employeeId": "252782",
+            "name": "Jurkovič,Jarolím"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "265113",
+        "name": "Solution Design",
+        "description": "Solution Design",
+        "owner": {
+            "employeeId": "239760",
+            "name": "Doležal,Teodor"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "265114",
+        "name": "BOS",
+        "description": "Business Operation Service",
+        "owner": {
+            "employeeId": "213539",
+            "name": "Šmajdová,Miloslava"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "265115",
+        "name": "Sol.Design & Arch.01",
+        "description": "Solution Design & Architecture 01",
+        "owner": {
+            "employeeId": "292778",
+            "name": "Brezina,Marcel"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "265116",
+        "name": "Sol.Design & Arch.02",
+        "description": "Solution Design & Architecture 02",
+        "owner": {
+            "employeeId": "280046",
+            "name": "Mihaliková,Oľga"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "265211",
+        "name": "Sales & Serv. Mgmt 2",
+        "description": "Sales & Service Management 02",
+        "owner": {
+            "employeeId": "223859",
+            "name": "Mamojka,Boleslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "265212",
+        "name": "Sales & Serv. Mgmt 4",
+        "description": "Sales & Service Management 04",
+        "owner": {
+            "employeeId": "215672",
+            "name": "Zima,Silvester"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "265213",
+        "name": "Sales & Serv. Mgmt 5",
+        "description": "Sales & Service Management 05",
+        "owner": {
+            "employeeId": "223859",
+            "name": "Mamojka,Boleslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "265214",
+        "name": "Sales & Serv. Mgmt 6",
+        "description": "Sales & Service Management 06",
+        "owner": {
+            "employeeId": "419382",
+            "name": "Skokan,Igor"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "265215",
+        "name": "Sales & Serv. Mgmt 7",
+        "description": "Sales & Service Management 07",
+        "owner": {
+            "employeeId": "419382",
+            "name": "Skokan,Igor"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "265216",
+        "name": "Sales&Service Mgmt08",
+        "description": "Sales & Service Management 08",
+        "owner": {
+            "employeeId": "223859",
+            "name": "Mamojka,Boleslav"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    },
+    {
+        "number": "265217",
+        "name": "Sales&Service Mgt 09",
+        "description": "Sales & Service Management 09",
+        "owner": {
+            "employeeId": "288546",
+            "name": "Šimonovič,Daniel"
+        },
+        "validFrom": "2017-01-01T00:00:00",
+        "validTo": "9999-12-31T00:00:00",
+        "isActive": true,
+        "orgUnits": null
+    }
+]

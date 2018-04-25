@@ -1,0 +1,64 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+html, body {
+    width: 100%;
+    height: 100%;
+}
+body {
+    background: url("/images/portfolio.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-attachment: fixed;
+}
+
+.full-fill-white {
+    min-height: 100vh;
+    width: 100%;
+    background-color: #fff;
+}
+
+.unselectable {
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}
+
+.t-systems-btn {
+    background-color: rgb(226,0,116);
+}
+
+.t-systems-btn:hover {
+    background-color: rgb(228, 129, 180)!important;
+}
+
+.icon-btn {
+    cursor: pointer;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.input-field label {
+    pointer-events: auto;
+}
+
+
+.radio-t-system:checked+label:after, .radio-t-system.with-gap:checked+label:before, .radio-t-system.with-gap:checked+label:after{
+    border: 2px solid rgb(226,0,116);
+}
+
+.radio-t-system:checked+label:after, .radio-t-system.with-gap:checked+label:after {
+    background-color: rgb(226,0,116);
+}
+
+.radio-t-system:not(:checked)+label:before, .radio-t-system:not(:checked)+label:after {
+    border: 2px solid #afafaf;
+}
+.t-systems-border-color {
+    border-color: rgb(226,0,116);
+}
